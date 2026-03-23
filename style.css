@@ -1,0 +1,16 @@
+body{
+background-color: #020202;
+color:rgb(19, 63, 146);
+text-align: center;
+align-items: center;
+font-size: 25px;
+padding: 0 24px;
+}
+.cabecalho{
+    color: rgb(224, 199, 199);
+    font-size: 60px;
+}
+.titulo-principal{
+font-size: 40px;
+}
+
